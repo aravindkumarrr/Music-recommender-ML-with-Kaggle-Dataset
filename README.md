@@ -2,6 +2,7 @@
 
 A fast, content-based music recommendation engine built using Spotify-style metadata, audio features, and vector search powered by **FAISS**.
 
+Built on the Kaggle [Spotify Tracks Dataset]([url](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset))
 ---
 
 ## 🚀 Features
